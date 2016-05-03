@@ -2,7 +2,7 @@
 
 A library which checks whether OneMDM is installed.
 
-# Integrating the Library with Existing Project
+### Integrating the Library with Existing Project
 
 To integrate OneMDM Installer with an existing project:
 
