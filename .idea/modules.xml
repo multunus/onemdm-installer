@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/onemdminstaller.iml" filepath="$PROJECT_DIR$/onemdminstaller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemdm-installer.iml" filepath="$PROJECT_DIR$/onemdm-installer.iml" />
     </modules>
   </component>
 </project>
