@@ -1,6 +1,6 @@
 # OneMDMInstaller
 
-A library which checks whether OneMDM is installed.
+A library which checks whether [OneMDM](http://multunus.github.io/onemdm-server/) is installed.
 
 ### Integrating the Library with Existing Project
 
